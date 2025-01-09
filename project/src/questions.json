@@ -1,0 +1,994 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "What do the maxillary cuspids look like from the labial view?",
+      "options": [
+        "A- prominent at the gingival portion of the tooth",
+        "B- depressed at gingival portion of tooth",
+        "C- rotated lingualydistal from",
+        "D- incisal surface is higher than central incisor"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 2,
+      "question": "What is another facial form besides ovoid & square?",
+      "options": [
+        "A- round",
+        "B- tapered",
+        "C- concave",
+        "D- tapered round"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 3,
+      "question": "What is the initial base polish for acrylic and metal?",
+      "options": [
+        "A- green polish",
+        "B- pumice",
+        "C- rouge",
+        "D- Tripoli"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 4,
+      "question": "What do you call the procedure that simulates natural gingival anatomy and prevents light reflection on a processed denture?",
+      "options": [
+        "A- contouring",
+        "B- festooning",
+        "C- stippling",
+        "D- characterization"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 5,
+      "question": "When making custom trays, what is the primary function of tissue stops?",
+      "options": [
+        "A- displace tissue to aid in border molding",
+        "B- lay directly over the soft tissue",
+        "C- support the tray not displacing the tissue",
+        "D- position tray over the crest of the ridge"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 6,
+      "question": "In order for autopolymerizing resin to process, it depends on:",
+      "options": [
+        "A- pressure",
+        "B- time",
+        "C- heat",
+        "D- all of the above"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 7,
+      "question": "What determines the height of posterior denture teeth?",
+      "options": [
+        "A- occlusal plane",
+        "B- retromolar pad",
+        "C- curve of Spee",
+        "D- tuberosity"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 8,
+      "question": "On the mandible, what offers optimum support for the denture?",
+      "options": [
+        "A- residual ridge and retromolar pad",
+        "B- buccal shelf and ridge",
+        "C- buccal vestibule and periphery",
+        "D- the tuberosity"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 9,
+      "question": "Determines posterior-most border of maxillary denture",
+      "options": [
+        "A- tuberosity",
+        "B- residual ridge",
+        "C- hamular notch",
+        "D- retromolar pad"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 10,
+      "question": "A surgical guide helps dentist to trim:",
+      "options": [
+        "A- alveolar process",
+        "B- preliminary cast",
+        "C- master cast",
+        "D- undercuts"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 11,
+      "question": "Allow (after processing) denture flasks to:",
+      "options": [
+        "A- bench cool 30 minutes",
+        "B- cool in water bath",
+        "C- bench cool overnight",
+        "D- no need to wait"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 12,
+      "question": "What is the recommended preparation for a simple denture repair?",
+      "options": [
+        "A- shoulder",
+        "B- butt",
+        "C- rabbet and bevel",
+        "D- box"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 13,
+      "question": "Anatomical landmarks used for palatal seal:",
+      "options": [
+        "A- fovea palatinae & tuberosities",
+        "B- median raphe",
+        "C- retromolar pads",
+        "D- hamular notch & fovea palatine"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 14,
+      "question": "Simulates the shapes and root eminences on a processed denture",
+      "options": [
+        "A- stippling",
+        "B- molding",
+        "C- contouring",
+        "D- characterizing"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 15,
+      "question": "Which tooth is considered the \"key to occlusion\"?",
+      "options": [
+        "A- the first permanent molars",
+        "B- the first permanent premolars",
+        "C- the second permanent molars",
+        "D- the first deciduous molars"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 16,
+      "question": "What degree tooth would be recommended for patients with poor ridges, crossbite problems and poor muscle control?",
+      "options": [
+        "A- 33 degrees",
+        "B- 20 degrees",
+        "C- 0 degrees",
+        "D- 30 degrees"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 17,
+      "question": "When processing a methylmethacrylate acrylic denture in a curing unit using proper heating cycles, this would prevent:",
+      "options": [
+        "A- warpage",
+        "B- shrinkage",
+        "C- expansion",
+        "D- porosity"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 18,
+      "question": "The bilateral curve between buccal and lingual cusps is called:",
+      "options": [
+        "A- compensating curve",
+        "B- curve of Wilson",
+        "C- curve of Spee",
+        "D- Earl Pound's curve"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 19,
+      "question": "What kind of methylmethacrylate resin should be used for the repair of a denture base?",
+      "options": [
+        "A- heat-cured",
+        "B- cyanoacrylate",
+        "C- copolymerizing",
+        "D- autopolymerizing"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 20,
+      "question": "Device used to relate to technician about maxillomandibular relation, occlusal plane, midline and cheek support",
+      "options": [
+        "A- face bow",
+        "B- occlusion rim",
+        "C- try-in record",
+        "D- gothic tracer"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 21,
+      "question": "Custom trays are used for:",
+      "options": [
+        "A- incorporating a catalyst into impression material",
+        "B- patient comfort",
+        "C- provide an accurate impression",
+        "D- displace tissue for molding"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 22,
+      "question": "What is the purpose of a duplicate denture?",
+      "options": [
+        "A- to make a better fitting appliance",
+        "B- to replace the denture base material",
+        "C- to avoid patient embarrassment",
+        "D- to provide a spare denture when replacing original"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 23,
+      "question": "Which of the following most likely would cause porosity in heat-packed processed acrylic resin?",
+      "options": [
+        "A- overmixing acrylic",
+        "B- packing in the dough stage",
+        "C- underpacking",
+        "D- improper investing procedures"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 24,
+      "question": "A final luster is best achieved in polishing acrylic appliances by using:",
+      "options": [
+        "A- flour pumice",
+        "B- Tripoli",
+        "C- rouge",
+        "D- tin oxide"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 25,
+      "question": "The position in which maxillary and mandibular incisors are set on a denture determine the:",
+      "options": [
+        "A- angle of inclination",
+        "B- overjet and overlap",
+        "C- incisal guidance",
+        "D- curve of Wilson"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 26,
+      "question": "Which of the following does NOT help form the maxillary denture border?",
+      "options": [
+        "A- mylohyoid",
+        "B- buccinators",
+        "C- masseter",
+        "D- external Pterygoid"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 27,
+      "question": "In class I occlusion, the mandibular second premolar occludes with the maxillary:",
+      "options": [
+        "A- first and second molars",
+        "B- cuspid and first premolar",
+        "C- first and second premolar",
+        "D- second premolar and first molar"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 28,
+      "question": "By grinding, rotating and spacing artificial teeth the technician can improve:",
+      "options": [
+        "A- facial contours",
+        "B- phonetics",
+        "C- occlusion",
+        "D- esthetics and function"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 29,
+      "question": "How many basic face forms are there?",
+      "options": [
+        "A- 2",
+        "B- 3",
+        "C- 4",
+        "D- 5"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 30,
+      "question": "Properly contoured interdental papillae are triangular and:",
+      "options": [
+        "A- flat",
+        "B- concave",
+        "C- convex",
+        "D- smooth"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 31,
+      "question": "After a denture is processed (cured) it is remounted to accomplish this:",
+      "options": [
+        "A- balanced occlusion",
+        "B- occlusal interferences",
+        "C- working occlusion",
+        "D- centric relation"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 32,
+      "question": "An objective of contouring the denture base is to try and simulate:",
+      "options": [
+        "A- intaglio surface of denture",
+        "B- root eminences",
+        "C- contour labial surfaces",
+        "D- contour buccal surfaces"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 33,
+      "question": "What can a technician do to a discolored, old, well-fitting denture to restore it?",
+      "options": [
+        "A- steam clean it",
+        "B- ultrasonic clean it",
+        "C- reline it",
+        "D- rebase it"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 34,
+      "question": "When you bulk wax a denture, you should not add wax to facial and lingual surfaces at the same time because:",
+      "options": [
+        "A- teeth will become unstable because of unnecessary heat",
+        "B- wax surfaces will become very thick (overwaxed) when wax is applied at the same time",
+        "C- it could cause tooth movement due to warm soft wax",
+        "D- the wax could cool making it difficult to characterize"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 35,
+      "question": "What would prevent bonding between acrylic denture teeth and the denture base?",
+      "options": [
+        "A- using excessive debubblizer during flasking",
+        "B- excessive rinsing with water after boil out",
+        "C- excessive use of household detergent during boil out",
+        "D- applying tinfoil separating medium to teeth after boil out"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 36,
+      "question": "What is the impression material most widely used for preliminary impressions?",
+      "options": [
+        "A- irreversible hydrocolloid",
+        "B- reversible hydrocolloid",
+        "C- silicone",
+        "D- polyether"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 37,
+      "question": "The denture wax-up should be bulkier at:",
+      "options": [
+        "A- labial flange",
+        "B- the palate",
+        "C- around canine",
+        "D- tuberosities"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 38,
+      "question": "Process to replace ill-fitting tissue surface of a denture to make it fit more accurately is referred to as:",
+      "options": [
+        "A- rebasing",
+        "B- relining",
+        "C- duplicating",
+        "D- repairing"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 39,
+      "question": "Minimum time for setting of invested stone in denture flask before boiling out the wax?",
+      "options": [
+        "A- 10 minutes",
+        "B- 30 minutes",
+        "C- 60 minutes",
+        "D- 90 minutes"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 40,
+      "question": "Primary purpose of a protrusive check-bite:",
+      "options": [
+        "A- check centric relation",
+        "B- set Bennett shift adjustment",
+        "C- establish correct vertical dimension",
+        "D- set horizontal condylar path (guide)"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 41,
+      "question": "While fabricating an immediate denture, teeth are removed one at a time. Why?",
+      "options": [
+        "A- to preserve the residual ridge",
+        "B- to preserve centric relation",
+        "C- to preserve vertical dimension",
+        "D- to preserve natural tooth relationship"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 42,
+      "question": "The key to a successful repair on a fractured denture is:",
+      "options": [
+        "A- using a reinforcement tool (mesh)",
+        "B- holding broken parts with cyanoacrylate before making matrix",
+        "C- reassemble broken parts accurately",
+        "D- using the proper matching resin for repair"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 43,
+      "question": "When a denture is boiled out, the stone surfaces are coated with a separating medium. Why?",
+      "options": [
+        "A- to create a smooth surface of the processed acrylic",
+        "B- to prevent gypsum from sticking to resin and incorporation of water into the resin",
+        "C- prevent teeth from sticking to the investment",
+        "D- prevent tooth movement during processing"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 44,
+      "question": "Custom trays are made with this characteristic:",
+      "options": [
+        "A- flexible",
+        "B- brittle",
+        "C- rigid",
+        "D- elastic"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 45,
+      "question": "Gypsum particles can be removed from processed dentures with a solution of sodium:",
+      "options": [
+        "A- silicate",
+        "B- chloride",
+        "C- citrate",
+        "D- nitrate"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 46,
+      "question": "When a dentist does not give information on prescription about tooth shade, mold, shape, how can one determine anterior choice?",
+      "options": [
+        "A- common sense: small or large ridge determines small or large teeth",
+        "B- manufacturer molds and charts",
+        "C- ridge size and shape",
+        "D- shape of residual ridge, canine to canine eminence measurement"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 47,
+      "question": "In bilateral balancing occlusion, cusps occluding on balancing side are:",
+      "options": [
+        "A- distal of maxillary and mesial of the mandibular",
+        "B- buccal of maxillary and buccal of the mandibular",
+        "C- lingual of the maxillary and buccal of the mandibular",
+        "D- lingual of the maxillary and lingual of the mandibular"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 48,
+      "question": "When there are occlusal contacts of maxillary and mandibular teeth on the balancing side and simultaneous contacts of teeth on the working side, this situation exists:",
+      "options": [
+        "A- group function",
+        "B- bilateral balance",
+        "C- unilateral balance",
+        "D- anterior disclusion"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 49,
+      "question": "When an immediate denture does not fit properly in the edentulous ridge, what is the main reason?",
+      "options": [
+        "A- shrinkage of impression material",
+        "B- improper and inaccurate water/powder ratio of stone",
+        "C- warping of resin material during processing",
+        "D- trimming of ridge is not scientific; it is a sculptured estimate"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 50,
+      "question": "The balancing side of the arch is:",
+      "options": [
+        "A- the functioning side",
+        "B- opposite the working side",
+        "C- group function",
+        "D- in protrusive"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 51,
+      "question": "What is the imaginary longitudinal line around which the crown of the tooth is most symmetrically distributed?",
+      "options": [
+        "A- short axis",
+        "B- vertical axis",
+        "C- long axis",
+        "D- saggital axis"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 52,
+      "question": "The lingual flange on a mandibular denture should be:",
+      "options": [
+        "A- bulked up for strength",
+        "B- thinned out for comfort",
+        "C- concave to allow for the tongue",
+        "D- convex to allow for the tongue"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 53,
+      "question": "The purpose of a spacer on a custom tray is to:",
+      "options": [
+        "A- make impression-taking procedure easier",
+        "B- reduce the cost of impression materials for this procedure",
+        "C- allow for good flow of material while taking impression",
+        "D- provide an even thickness of impression material"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 54,
+      "question": "On a complete maxillary or mandibular denture, what area requires no relief?",
+      "options": [
+        "A- Torus palatinus",
+        "B- Anterior palatine foramen",
+        "C- Retromolar triangle",
+        "D- Incisive papillae"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 55,
+      "question": "When contouring, which maxillary tooth has the longest, most prominent root eminence?",
+      "options": [
+        "A- central incisors",
+        "B- lateral incisors",
+        "C- cuspids",
+        "D- molars"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 56,
+      "question": "When porosity is noted after processing a denture, what is the likely reason?",
+      "options": [
+        "A- the flask was overpacked and curing cycle was too short",
+        "B- the acrylic was contaminated and too much monomer was used",
+        "C- flask was not closed or the curing temperature was too low",
+        "D- the flask was underpacked and the curing temperature too high"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 57,
+      "question": "When the mandibular first molar is positioned in class I centric occlusion, the facial cusps will be between the facial and lingual cusps of the maxillary:",
+      "options": [
+        "A- first and second molars",
+        "B- first and second premolars",
+        "C- second and third molars",
+        "D- second premolar and first molar"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 58,
+      "question": "Poorly defined peripheral borders on a complete denture may result from:",
+      "options": [
+        "A- failing to box-mold the impression",
+        "B- incorrect powder-water ratios",
+        "C- inverting impression too soon",
+        "D- improper flasking procedures"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 59,
+      "question": "An advantage of using custom impression trays is:",
+      "options": [
+        "A- flexibility",
+        "B- rigidity",
+        "C- uniform thickness of impression tray",
+        "D- uniform thickness of impression material"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 60,
+      "question": "The process of shaping and finishing wax or denture base acrylic to give facial flanges of a denture a natural shape is called:",
+      "options": [
+        "A- Contouring",
+        "B- Stippling",
+        "C- Molding",
+        "D- Investing"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 61,
+      "question": "When fabricating a baseplate for a complete denture, the technician must:",
+      "options": [
+        "A- incorporate a tissue stop",
+        "B- incorporate a tissue relief",
+        "C- duplicate the master cast",
+        "D- take care not to damage (harm) the master cast"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 62,
+      "question": "Custom trays are made out of which materials?",
+      "options": [
+        "A- cold cured acrylics",
+        "B- Shellac",
+        "C- vinyl",
+        "D- heat cured acrylic"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 63,
+      "question": "The purpose for using a shell blaster is to:",
+      "options": [
+        "A- clean restorations and instruments",
+        "B- remove gypsum products from acrylic resin",
+        "C- remove investment from metal castings",
+        "D- clean the inside of crowns"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 64,
+      "question": "Which information is provided by record bases and occlusal rims?",
+      "options": [
+        "A- cuspid lines",
+        "B- face forms (square, ovoid, tapered)",
+        "C- amount of overbite",
+        "D- good cheek support"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 65,
+      "question": "Reinforcing a mandibular baseplate with hard acrylic will improve its:",
+      "options": [
+        "A- resiliency",
+        "B- contour",
+        "C- stability",
+        "D- retention"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 66,
+      "question": "Dental stone is the recommended investment material for dentures because:",
+      "options": [
+        "A- resistance to material expansion",
+        "B- compression strength",
+        "C- shear strength",
+        "D- tensile strength"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 67,
+      "question": "The primary purpose of an occlusal rim is to determine:",
+      "options": [
+        "A- vertical dimension",
+        "B- labial arch form",
+        "C- incisal edge",
+        "D- incisal midline"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 68,
+      "question": "An anatomically accepted occlusion can be achieved in denture construction by:",
+      "options": [
+        "A- using fully anatomical form for the replacement teeth",
+        "B- modifying the occlusal form of the replacement teeth to obtain function in harmony with the opposing teeth",
+        "C- making sure that the replacement teeth have occlusal contacts on the balancing side",
+        "D- using porcelain teeth to make them more biologically acceptable"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 69,
+      "question": "Leaving a denture cast soaking in room temperature water for more than the recommended amount of time causes:",
+      "options": [
+        "A- will cause cast to fracture",
+        "B- will discolor the cast",
+        "C- will etch the cast",
+        "D- will cause wax to separate from cast"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 70,
+      "question": "An advantage of Acrylic teeth is that they:",
+      "options": [
+        "A- are offered with more shades",
+        "B- are stronger",
+        "C- have metal pins for retention",
+        "D- are available in more molds"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 71,
+      "question": "Mandibular anterior denture teeth should be selected based on:",
+      "options": [
+        "A- maxillary anterior teeth chosen",
+        "B- occlusion rim height and width",
+        "C- small ridge small teeth / big ridge large teeth",
+        "D- posterior teeth selected or recommended manufacturers instruction"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 72,
+      "question": "Primary reason for having the occlusal edge of the wax rim flat is that:",
+      "options": [
+        "A- assists in developing facial contours",
+        "B- provides a point of reference",
+        "C- is used for an occlusal plane",
+        "D- provides a centric relationship"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 73,
+      "question": "When contouring, the root eminence should be:",
+      "options": [
+        "A- two grooves parallel to long axis of the tooth",
+        "B- wider towards the apex and narrower at the top of the free gingival",
+        "C- narrower towards the apex and wider at the top of the free gingival",
+        "D- V-shaped concavities located above the interdental papilla"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 74,
+      "question": "A patient's vertical dimension of occlusion is held in position with:",
+      "options": [
+        "A- stamp cusps",
+        "B- buccal cusps",
+        "C- lingual cusps",
+        "D- incisal edges"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 75,
+      "question": "If relief wax remains in the hydrocolloid mold prior to pouring the refractory cast, what is the likely result?",
+      "options": [
+        "A- no tissue stop for packing acrylic",
+        "B- no space for acrylic under mesh",
+        "C- weak framework in denture base area",
+        "D- less room for prosthetic teeth"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 76,
+      "question": "A quick chuck on a bench lathe allows the technician to:",
+      "options": [
+        "A- change instruments without stopping the lathe",
+        "B- operate the machine at a higher rate of speed",
+        "C- rapidly reduce the thickness of a material",
+        "D- transfer the motor rotation speed from high to low"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 77,
+      "question": "The number of teeth in a complete set of maxillary and mandibular dentures is:",
+      "options": [
+        "A- 26",
+        "B- 28",
+        "C- 30",
+        "D- 32"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 78,
+      "question": "What is the most probable cause for the resin in a reline to be porous?",
+      "options": [
+        "A- The denture was overpacked",
+        "B- There was too much monomer used",
+        "C- The nuts on the reline jig were not tight",
+        "D- The denture was not cured in a pressure pot"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 79,
+      "question": "The process of refitting a denture by replacing the denture base material without changing the occlusal relations of the teeth is known as:",
+      "options": [
+        "A- duplicating",
+        "B- rebasing",
+        "C- relining",
+        "D- refitting"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 80,
+      "question": "When finishing and polishing a complete denture, which is the most critical area?",
+      "options": [
+        "A- the prosthetic teeth",
+        "B- the palatal area",
+        "C- the frenum areas",
+        "D- the peripheral borders"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 81,
+      "question": "During the processing errors remount stage, after the denture is deflasked. What is the purpose for the incisal pin to contact the articulator?",
+      "options": [
+        "A- establish occlusal contacts",
+        "B- establish protrusive contact",
+        "C- maintain established vertical dimension",
+        "D- establish centric occlusion"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 82,
+      "question": "What can be said about occlusal contacts of maxillary and mandibular teeth on the working side and no contacts on the balancing side?",
+      "options": [
+        "A- bilateral balance",
+        "B- unilateral balance",
+        "C- posterior disclusion",
+        "D- anterior disclussion"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 83,
+      "question": "When selective grinding, the rule of BULL specifies that you have to adjust which upper cusps?",
+      "options": [
+        "A- lingual",
+        "B- buccal",
+        "C- right side",
+        "D- left side"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 84,
+      "question": "What is the duplicating material used in the fabrication of a duplicate denture?",
+      "options": [
+        "A- impression compound",
+        "B- zinc oxide eugenol",
+        "C- alginate",
+        "D- impression plaster"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 85,
+      "question": "While in processing, a flasked relined denture should not be subjected to any temperature higher than:",
+      "options": [
+        "A- 100 F degrees",
+        "B- 145 F degrees",
+        "C- 165 F degrees",
+        "D- 200 F degrees"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 86,
+      "question": "The most likely cause for a fracture in a rebase when removing the cast before processing is:",
+      "options": [
+        "A- the flask halves did not fit together properly",
+        "B- not enough separator was used on the cast",
+        "C- undercuts were not removed before the impression was poured",
+        "D- denture was old and brittle"
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "number": 87,
+      "question": "Equilibration should be accomplished only after:",
+      "options": [
+        "A- protrusive has been established",
+        "B- vertical has been reestablished",
+        "C- working and balancing have been established",
+        "D- it's been tried on patient"
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "number": 88,
+      "question": "When setting 30 degree teeth on a semiadjustable articulator, the incisal guidance should be set at:",
+      "options": [
+        "A- 30 degrees",
+        "B- 20 degrees",
+        "C- 15 degrees",
+        "D- 10 degrees"
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "number": 89,
+      "question": "What will a mounted anatomical index of the master cast eliminate?",
+      "options": [
+        "A- remounting case with a facebow transfer",
+        "B- remounting the maxillary cast",
+        "C- remounting the mandibular cast",
+        "D- using a fully adjustable articulator"
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "number": 90,
+      "question": "The least dimensionally stable material for baseplates:",
+      "options": [
+        "A- light cured resin",
+        "B- baseplate wax",
+        "C- self curing resin",
+        "D- heat cured resin"
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}
